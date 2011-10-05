@@ -1,0 +1,38 @@
+genres:
+  - name: Classic Rock
+    artists:
+      - name: Led Zeppelin
+        albums:
+        - name: I
+          tracks:
+            - name: Babe, I'm Gonna Leave You
+            - name: Black Mountain Side
+            - name: Communication Breakdown
+            - name: Dazed And Confused
+            - name: Good Times, Bad Times
+            - name: How Many More Times
+            - name: I Can't Quit You Baby
+            - name: You Shook Me
+            - name: Your Time Is Gonna Come
+        - name: II
+          tracks:
+            - name: Bring It On Home
+            - name: Heartbreaker
+            - name: The Lemon Song
+            - name: Living Loving Maid
+            - name: Moby Dick
+            - name: Ramble On
+            - name: Thank You
+            - name: What Is And What Should Never Be
+            - name: Whole Lotta Love
+  - name: Jazz
+    artists:
+      - name: John Coltrane
+        albums:
+        - name: My Favorite Things
+          tracks:
+            - name: My Favorite Things
+            - name: Every Time We Say Goodbye
+            - name: Summertime
+            - name: But Not For Me
+
